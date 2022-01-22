@@ -13,7 +13,7 @@
   <img src="https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg" alt="react" width="35">
  </span>
   <span>
-  <img src="https://kinsta.com/pt/wp-content/uploads/sites/3/2019/05/o-que-php-1024x512.png" alt="laravel" width="35">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2000px-Webysther_20160423_-_Elephpant.svg.png" alt="php" width="35">
  </span>
  <span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel" width="35">
