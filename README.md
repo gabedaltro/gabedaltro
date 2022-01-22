@@ -27,6 +27,9 @@
  <span>
   <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" alt="html5" height="35" width="35">
  </span>
+ <span>
+  <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="css3" height="35" width="35">
+ </span>
 </div>
 
 ### Connect with me 😃
