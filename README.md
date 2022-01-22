@@ -1,4 +1,4 @@
-###<p>👋 I'm <strong>@gabedaltro</strong></p>
+###👋 I'm @gabedaltro
 <p>👀 reactJS, react native, typescript, nextJS, laravel, angular</p>
 <p>💞️ reactJS, typescript, laravel</p>
 
