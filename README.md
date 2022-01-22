@@ -1,5 +1,5 @@
 # Gabriel Guimarães
-# ✨ Estagiário de software e front-end developer ✨
+### ✨ Software intern and front-end developer ✨
 
 
 <p align="center">
