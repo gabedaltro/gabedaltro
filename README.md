@@ -10,22 +10,22 @@
 
 <div style="display: inline_block"><br>
  <span style="background-color: #5d5de8">
-  <img src="https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg" alt="react" width="35">
+  <img src="https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg" alt="react" height="35" width="35">
  </span>
   <span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2000px-Webysther_20160423_-_Elephpant.svg.png" alt="php" width="35">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="php" height="35" width="35">
  </span>
  <span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel" width="35">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel" height="35" width="35">
  </span>
  <span>
-  <img src="https://procoders.tech/wp-content/uploads/2020/11/Typescript_logo_2020.svg" alt="typescript" width="35">
+  <img src="https://procoders.tech/wp-content/uploads/2020/11/Typescript_logo_2020.svg" alt="typescript" height="35" width="35">
  </span>
  <span>
-  <img src="https://usefulangle.com/img/thumb/javascript.png" alt="javascript" width="35">
+  <img src="https://usefulangle.com/img/thumb/javascript.png" alt="javascript" height="35" width="35">
  </span>
  <span>
-  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" alt="html5" width="35">
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" alt="html5" height="35" width="35">
  </span>
 </div>
 
