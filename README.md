@@ -12,7 +12,7 @@
  <span style="background-color: #5d5de8">
   <img src="https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg" alt="react" height="35" width="35">
  </span>
-  <span>
+  <span style="margin-right: 15px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="php" height="35" width="35">
  </span>
  <span>
