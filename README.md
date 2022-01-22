@@ -8,7 +8,7 @@
 
 💻 <strong>Tech Stack</strong>
 
-<span style="background-color:red;display:inline-flex">
+<p>
  <img src="https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg" alt="react" width="25">
- <p style="margin-bottom:10px">ReactJS</p>
-</span>
+ ReactJS
+</p>
