@@ -8,4 +8,5 @@
 </p>
 
 💻 <strong>Tech Stack</strong>
-<img src="https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg" alt="react" width="20">
+
+### <img src="https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg" alt="react" width="20"> ReactJS
