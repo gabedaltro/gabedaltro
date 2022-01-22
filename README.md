@@ -1,4 +1,4 @@
-###👋 I'm @gabedaltro
+### 👋 I'm @gabedaltro
 <p>👀 reactJS, react native, typescript, nextJS, laravel, angular</p>
 <p>💞️ reactJS, typescript, laravel</p>
 
