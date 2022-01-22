@@ -1,5 +1,5 @@
 ### <Welcome />!
-<p>👋 I'm ###@gabedaltro</p>
+<p>👋 I'm <strong>@gabedaltro</strong></p>
 <p>👀 reactJS, react native, typescript, nextJS, laravel, angular</p>
 <p>💞️ reactJS, typescript, laravel</p>
 
