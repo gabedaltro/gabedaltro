@@ -15,6 +15,15 @@
  <span>
   <img src="https://procoders.tech/wp-content/uploads/2020/11/Typescript_logo_2020.svg" alt="typescript" width="35">
  </span>
+ <span>
+  <img src="https://procoders.tech/wp-content/uploads/2020/11/Typescript_logo_2020.svg" alt="typescript" width="35">
+ </span>
+ <span>
+  <img src="https://usefulangle.com/img/thumb/javascript.png" alt="javascript" width="35">
+ </span>
+ <span>
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-9.png" alt="html5" width="35">
+ </span>
 </div>
 
 ### Connect with me 😃
