@@ -9,8 +9,12 @@
 <h1>💻   Tech Stack</h1>
 
 <p>
- <img src="https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg" alt="react" width="25">
- ReactJS
- <img src="https://procoders.tech/wp-content/uploads/2020/11/Typescript_logo_2020.svg" alt="typescript" width="25">
- TypeScript
+ <span>
+  <img src="https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg" alt="react" width="25">
+  ReactJS
+ </span>
+ <span>
+  <img src="https://procoders.tech/wp-content/uploads/2020/11/Typescript_logo_2020.svg" alt="typescript" width="25">
+  TypeScript
+ </span>
 </p>
