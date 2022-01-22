@@ -9,7 +9,7 @@
 <h1>💻   Tech Stack</h1>
 
 <p>
- <span style="background-color:#ddd;">
+ <span style="background-color:#5d5de8;">
   <img src="https://cdn-media-1.freecodecamp.org/images/1*jnqXL4Q-iW0qxodFDTxyFQ.jpeg" alt="react" width="25">
   ReactJS
  </span>
