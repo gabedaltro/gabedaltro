@@ -20,6 +20,6 @@
 ### Connect with me 😃
 
 <div>     
-  <a href = "mailto:gabeguimaraes13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gabedaltro/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gabeguimaraes13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/gabedaltro/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a> 
 </div>
