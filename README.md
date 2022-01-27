@@ -24,7 +24,7 @@
  <img align="center" src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="css3" height="35" width="35">
 </div>
 
-### Connect with me 😃
+<h1>Connect with me 😃</h1>
 
 <div>     
   <a href = "mailto:gabeguimaraes13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
