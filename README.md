@@ -3,7 +3,7 @@
 
 
 <p align="center">
- <img src="https://pngimg.com/uploads/simpsons/simpsons_PNG8.png" alt="homer-simpsons" height="600">
+ <img src="https://pngimg.com/uploads/simpsons/simpsons_PNG8.png" alt="homer-simpsons" height="450">
 </p>
 
 <h1>💻   Tech Stack</h1>
