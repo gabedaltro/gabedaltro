@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/gabedaltro/" target="_blank">
    <img src="https://img.shields.io/badge/-instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="blank">
   </a>
-  <a href="linkedin.com/in/gabriel-guimarães-b976ab214/" target="_blank">
+  <a href="https://linkedin.com/in/gabriel-guimarães-b976ab214/" target="_blank">
    <img src="https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
   </a>
 </div>
