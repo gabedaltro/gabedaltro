@@ -27,7 +27,12 @@
 <h1>Connect with me 😃</h1>
 
 <div>     
-  <a href = "mailto:gabeguimaraes13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/gabedaltro/" target="_blank"><img src="https://img.shields.io/badge/-instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-   <a href="linkedin.com/in/gabriel-guimarães-b976ab214/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+  <a href = "mailto:gabeguimaraes13@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/gabedaltro/" target="_blank">
+   <img src="https://img.shields.io/badge/-instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="blank">
+  </a>
+  <a href="linkedin.com/in/gabriel-guimarães-b976ab214/" target="_blank">
+   <img src="https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
+  </a>
 </div>
