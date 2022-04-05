@@ -2,10 +2,6 @@
 ### ✨ Software intern and front-end developer ✨
 
 
-<p align="center">
- <img src="https://pngimg.com/uploads/simpsons/simpsons_PNG8.png" alt="homer-simpsons" height="450">
-</p>
-
 <h1>💻   Tech Stack</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="gabedaltro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
