@@ -1,5 +1,5 @@
 # Gabriel Guimarães
-### ✨ Software intern and front-end developer ✨
+### Front-end developer 
 
 
 <h1>💻   Tech Stack</h1>
